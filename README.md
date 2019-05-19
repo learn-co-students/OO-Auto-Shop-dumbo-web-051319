@@ -32,7 +32,7 @@ Here's what we need to be able to do.
 
   - Get a list of all mechanics
 
-  - Get a list of all cars that a mechanic services
+  - Get a list of all cars that mechanic services
 
   - Get a list of all the car owners that go to a specific mechanic
 
